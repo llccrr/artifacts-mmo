@@ -1,0 +1,8 @@
+{
+  "name": "Artifacts JS Editor",
+  "version": "0.0.0",
+  "type": "module",
+  "dependencies": {
+    "artifacts-api-client": "^1.3.0"
+  }
+}

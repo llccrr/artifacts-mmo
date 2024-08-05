@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  artifacts-api-client:
+    specifier: ^1.3.0
+    version: 1.3.0
+
+packages:
+
+  /artifacts-api-client@1.3.0:
+    resolution: {integrity: sha512-4qgqRlYIIXD8ZkTqCAB9f7CWTJPp+lZgTSV9kNy5xrdyLiueppt06iGallXsFJVICd3f+tx5CmJbwSH+r1WZwg==}
+    engines: {node: '>=14.0.0'}
+    dev: false
